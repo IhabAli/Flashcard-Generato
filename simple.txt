@@ -1,0 +1,39 @@
+ [
+	{
+		"front":"Banging your head against a wall burns 150 calories an hour",
+		"back":"hour"
+	},
+	{
+		"front":"In the UK, it is illegal to eat mince pies on Christmas Day!",
+		"back":"mince pies"
+	},
+	{
+		"front":"When hippos are upset, their sweat turns red",
+		"back":"red"
+	},
+	{
+		"front":"The average woman uses her height in lipstick every 5 years.",
+		"back":"woman"
+	},
+	{
+		"front":"Cherophobia is the fear of fun",
+		"back":"fun"
+	},
+	{
+		"front":"Human saliva has a boiling point three times that of regular water.",
+		"back":"saliva"
+	},
+	{
+		"front":"King Henry VIII slept with a gigantic axe beside him.",
+		"back":"Henry"
+	},
+	{
+		"front":"Heart attacks are more likely to happen on a Monday",
+		"back":"Monday"
+	},
+	{
+		"front":"About 8,000 Americans are injured by musical instruments each year.",
+		"back":"instruments"
+	
+	}
+]
